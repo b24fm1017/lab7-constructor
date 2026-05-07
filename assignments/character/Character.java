@@ -55,5 +55,5 @@ public class Character {
 // TODO: class CharacterBuilder { ... }
 // - Fluent builder: .name(String), .hp(int), .mp(int), .gold(int)
 // - Тус бүр нь this-ийг буцаана
-// - build() нь Character объект буцаана
+// - build() нь Character объект буцаан
 // - Анхны утга: name="Hero", hp=100, mp=50, gold=0
